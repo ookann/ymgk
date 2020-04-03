@@ -2,3 +2,4 @@
 Bu verilerle ilgili bilgi çıkarımları yapıp bu senenin aynı aylarındaki farklılıkları, bu farklılıklara etki eden faktörleri, hava kalite indeksini yapay zeka ile tahmin etmeyi yapacağım.
 Hava Kalitesi İndeksi tahmininin görsel yapmak amaçlı mobil uygulama yapabilirim.
 
+
