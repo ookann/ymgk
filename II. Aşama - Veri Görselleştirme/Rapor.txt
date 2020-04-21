@@ -1,0 +1,1 @@
+Boş olan verileri tek tek verilerin ortalamasını alarak doldurdum. Sonra bunun üzerine görselleştirme yaptım.
